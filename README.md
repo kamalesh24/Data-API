@@ -1,7 +1,7 @@
 
 # Data API
 
-A backend project to implement REST API and experiment with the http methods(GET, POST, PUT and DELETE).
+A backend project to create REST API and experiment with the http methods(GET, POST, PUT and DELETE).
 
 
 ## Getting Started
